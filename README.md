@@ -1,7 +1,7 @@
-# Khmer2Romanize
+# Khmer2Romanized
 
 ### Feature
-- Convert Khmer to Romanize characters
+- Convert Khmer to Romanized characters
 
 
 ### Installation
