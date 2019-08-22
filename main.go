@@ -6,7 +6,7 @@ import (
 	"github.com/gin-gonic/contrib/static"
 	"github.com/gin-gonic/gin"
 
-	rm "github.com/khmerlang/Khmer2Romance/models/romanization"
+	rm "github.com/khmerlang/Khmer2Romanize/models/romanization"
 )
 
 type KhmerWords struct {
